@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5c362daf59090e141adabcc6be982e97
+timeCreated: 1526066806
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - timer: {fileID: 114271470574585492, guid: ffc04192888b33b47ac4eadaa3a09b42, type: 2}
+  - timerColl: {instanceID: 0}
+  - phizMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
